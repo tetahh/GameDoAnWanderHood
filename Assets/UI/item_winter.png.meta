@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: 05621d4f4414364489aff6d2113d7db3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2308554315035197016
+    second: item_winter_0
+  - first:
+      213: -4416929735547027456
+    second: item_winter_1
+  - first:
+      213: 8505605297988830485
+    second: item_winter_2
+  - first:
+      213: 2902816756793670473
+    second: item_winter_3
+  - first:
+      213: 3729732718594585221
+    second: item_winter_4
+  - first:
+      213: 4368008420619185382
+    second: item_winter_5
+  - first:
+      213: -2763055579617957744
+    second: item_winter_6
+  - first:
+      213: -7020510048176111057
+    second: item_winter_7
+  - first:
+      213: 3588906188549956740
+    second: item_winter_8
+  - first:
+      213: -5271226916573055396
+    second: item_winter_9
+  - first:
+      213: -3433856208855712606
+    second: item_winter_10
+  - first:
+      213: -3085188043379144111
+    second: item_winter_11
+  - first:
+      213: 4796365397727718296
+    second: item_winter_12
+  - first:
+      213: -5369593074983275508
+    second: item_winter_13
+  - first:
+      213: -4828457081589090484
+    second: item_winter_14
+  - first:
+      213: -3640454964736874608
+    second: item_winter_15
+  - first:
+      213: -8850672095750138959
+    second: item_winter_16
+  - first:
+      213: 841738809201176585
+    second: item_winter_17
+  - first:
+      213: -6420199508615857298
+    second: item_winter_18
+  - first:
+      213: -2189819096157756728
+    second: item_winter_19
+  - first:
+      213: -4555997051409631455
+    second: item_winter_20
+  - first:
+      213: -9082654247527650872
+    second: item_winter_21
+  - first:
+      213: -5260530972475694163
+    second: item_winter_22
+  - first:
+      213: -4502893349191585682
+    second: item_winter_23
+  - first:
+      213: 2825753361010310070
+    second: item_winter_24
+  - first:
+      213: -6784225094452762666
+    second: item_winter_25
+  - first:
+      213: 4814010192328075822
+    second: item_winter_26
+  - first:
+      213: -2283226824890734787
+    second: item_winter_27
+  - first:
+      213: -5886404050744483282
+    second: item_winter_28
+  - first:
+      213: 3358750581266182185
+    second: item_winter_29
+  - first:
+      213: 7580862942140107302
+    second: item_winter_30
+  - first:
+      213: 7717696864445231081
+    second: item_winter_31
+  - first:
+      213: 6840122712879496446
+    second: item_winter_32
+  - first:
+      213: -6320603663574822687
+    second: item_winter_33
+  - first:
+      213: -4727172800584897932
+    second: item_winter_34
+  - first:
+      213: -8242896709354912627
+    second: item_winter_35
+  - first:
+      213: 2650875625838160422
+    second: item_winter_36
+  - first:
+      213: 7032930533219955384
+    second: item_winter_37
+  - first:
+      213: 6129836056271216195
+    second: item_winter_38
+  - first:
+      213: 2233442513687264713
+    second: item_winter_39
+  - first:
+      213: -5105400740798585832
+    second: item_winter_40
+  - first:
+      213: 4599230095555007709
+    second: item_winter_41
+  - first:
+      213: -4866604039607097084
+    second: item_winter_42
+  - first:
+      213: 3652430122289336258
+    second: item_winter_43
+  - first:
+      213: -6244178572406795911
+    second: item_winter_44
+  - first:
+      213: 7489265700798673056
+    second: item_winter_45
+  - first:
+      213: 1597851200945409835
+    second: item_winter_46
+  - first:
+      213: 6997843389910566699
+    second: item_winter_47
+  - first:
+      213: -5941157463881081140
+    second: item_winter_48
+  - first:
+      213: -4934396004797181376
+    second: item_winter_49
+  - first:
+      213: 1326410717812606749
+    second: item_winter_50
+  - first:
+      213: 3201860606755547771
+    second: item_winter_51
+  - first:
+      213: -2878806192396704927
+    second: item_winter_52
+  - first:
+      213: -3619523174530264423
+    second: item_winter_53
+  - first:
+      213: -7852128134999257982
+    second: item_winter_54
+  - first:
+      213: 8193179312853878144
+    second: item_winter_55
+  - first:
+      213: 2390379469921021165
+    second: item_winter_56
+  - first:
+      213: 6197866401420447392
+    second: item_winter_57
+  - first:
+      213: -4522776315839054874
+    second: item_winter_58
+  - first:
+      213: 729810117611564181
+    second: item_winter_59
+  - first:
+      213: -8827350182820195019
+    second: item_winter_60
+  - first:
+      213: -4488725993864028653
+    second: item_winter_61
+  - first:
+      213: -2764533250292299140
+    second: item_winter_62
+  - first:
+      213: -6787082105281180937
+    second: item_winter_63
+  - first:
+      213: 6487480497009436081
+    second: item_winter_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: item_winter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a7e890781653d47bd3c94598792ba5
+      internalID: 1946888843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b508f533bb42b3c44a9b5985370744e4
+      internalID: 1889461827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d0bdcebd3e0749ba4fa7744716a9c
+      internalID: 2046439769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e67847fd0734634694910370ed77110
+      internalID: 1740355650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eec93565c2c28b47bb1b3bee614fb7d
+      internalID: -869411050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c041052832d64d848ad946dee9747
+      internalID: 300090456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee322ca3279a04c849bb6e3d360518
+      internalID: 440340185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2fb87f10a74524cb9b844bc5f0392f
+      internalID: -15535596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ef253df9b0aa4cbe241872515d1aa
+      internalID: -241906034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948bd0308bc3d414ea18685886cf418e
+      internalID: -1030803277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b7daa374960b489267efa4e37f521
+      internalID: 245815843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34159d2aa151c4cb07260d7b450b3b
+      internalID: -1296251816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3639b60878bf14b98fa7805239223a
+      internalID: -1438483037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d063c64182731dd4cb87cebda8407ef4
+      internalID: 430692727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac69134d82192324ebd146772b1d2a62
+      internalID: -1631983202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd509fa86665641bac9e2c3276da85
+      internalID: -1974783180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b139d2d0db2c34591920975b0d0675
+      internalID: -1062180471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9545024d904044a9dcf9b781cbbed
+      internalID: -643114938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f0fcbf85a6eb64fa769ba4e2429c0e
+      internalID: 1093121221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74398bf0b5aa6fd4a8870f8ada9f6c2a
+      internalID: 1514161903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75d5a576254aa9499b96fab0cc540be
+      internalID: -110628027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682b24d407a557408c4be154e8ac288
+      internalID: 1194231965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b2e1a8702ff624e861bd4d5b6a095f
+      internalID: -986606086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540fc0987bd0c014d8cb3123650cf92f
+      internalID: 1745521089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0af54dcb8c16f4fb1c3c87131a8dcf
+      internalID: -1718669893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32aca8a0027fb248ba594c04c9a607a
+      internalID: 524002576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7327f696e5a35429382cbfbbce0617
+      internalID: 661785812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ef0855e9c97849900440c6ee3e4e1
+      internalID: 1862312159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0478d320df592a14bb13725d71c2a64b
+      internalID: -1574293459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9689902c863312444bf8fce6bf99295e
+      internalID: 383837362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d155c8b66259340a9836aa0915fe0b
+      internalID: 1777560350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c085048886e4148986625708641d48
+      internalID: -1901101099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9a55c9355bb8e4fba05ac6db36a4e6
+      internalID: 232640720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096469b5d2c902e439cc25c7c42c8aaa
+      internalID: 624410254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8097619dbb498dc49872c74e3255401b
+      internalID: 400145541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675bc6c11b21ad140b0f55406ba21151
+      internalID: 1143080097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b8fe6f097fb74dab01193dba54729
+      internalID: 453081035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e65131f2402a4ebcfc4e923bc3477
+      internalID: 1366740507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4179946210d594e9b4e25d1b093fde
+      internalID: -251144329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1b71517f297a4ba8a0596582d1e9c
+      internalID: -1844272652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b9e2deb9cbda4baf1d2237477a145
+      internalID: 1384163237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3266913e2c01a6e49848fcf75ef8fb02
+      internalID: 1530756045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95344c8cf9312840a4dbe7dda4e43bb
+      internalID: -1740730041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1dd0c74c68fc4fa74cf9bb8c4d23d
+      internalID: 816403192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8621dde7d9de60d48a6ee30cbae3f513
+      internalID: 1843508878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b440cee193874b965021535de8f81
+      internalID: 1942412968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c9bb3d3d09e6409f8595b7b04aab9
+      internalID: 582062236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3582be9bb6bbd5943be8fdc14865311d
+      internalID: 1436624407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db1f4a842b43243af0275ea3cc7996
+      internalID: -252395606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ca2696fe29fb4fa2ed814973d720b
+      internalID: 1495839662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f044ee3b3cbadc489b1fe777c280ce9
+      internalID: -1116923947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f4517c00785141a4541437c8104f3
+      internalID: 507400417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddfe30f686a00340acff1702990392f
+      internalID: -1419997859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5538941f23d8164795d8162397c3d0f
+      internalID: -1617543668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da9bc9840741541bfc7862e854a208
+      internalID: -2078401455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921aeb2135aa1574e812abd1699f5fce
+      internalID: -409673962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd636d4b2c27cc439add7862302b393
+      internalID: 779152701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951e3fbe4c3070342afafc19a0baab77
+      internalID: -1843775063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ebfc671b4e0a04db122adf4d2dc0be
+      internalID: -391142632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc798c125999d87408ae2d2c7cb6dfeb
+      internalID: 1369583169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cefadefc237f945a51b89d5af3947c
+      internalID: -1975324195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7debbd034f3c3c4e923b884e1c23620
+      internalID: 440270247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab31f64328017ba439e0d80e09fccdad
+      internalID: 490309207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c359fc355c689cf40bde6ba3c87602cf
+      internalID: 46175821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14309bca07f9af4498d49330313c9377
+      internalID: 1008513091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff026d4a473a76940b35fb6f129e6de2
+      internalID: 1909177294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3e942db36ba343bc6e77ee15d1a37
+      internalID: -317464221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d399b260773b44a2577d2377c4c53
+      internalID: 809632953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644575d7224d5704c94c8df5ea322ec9
+      internalID: 2030854158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553164eb940f8094f96bfe89c38c4093
+      internalID: 1177490247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396360ae99c4134aaa6f27c8fa4518b
+      internalID: 2069432703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd7ce4591a01024d83187fb880618e7
+      internalID: 1645720944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c1de87ba70a8489702b33f7d0d928
+      internalID: -1552654147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028103652561afe4ba88b01ab26816d7
+      internalID: -474459962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b4b37d10a6c214ebcd96f7396d5eec
+      internalID: -2101101540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4465bd7c612e93a49a83c1e87d59627a
+      internalID: 1873204576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19034ea8b8dfa7438a5eba46c082a4c
+      internalID: -526589666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5815d64bb1d8c2c4395f309eea3b4873
+      internalID: -421269981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85c0ccd9697c24b8fe9d282e3f1d5d
+      internalID: -447413565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d4c8ebbde7dda47a2f892e3af58714
+      internalID: -1047594431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e039bd4ec3b2ac4d89e10e315573fd7
+      internalID: 549139593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea6a248da3ef048a151e6fbc195c94
+      internalID: 1977783317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b716988934f60b43b140747a049d498
+      internalID: -87831732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53356278c859b6d44b781e79b74f52e9
+      internalID: -1361945038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e19d977ad2f41841905b04c434841fe
+      internalID: -1232029892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3d17240618dad42b8f6dbdde09103b
+      internalID: 1408077409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5f8e2a388a4ae4f9357eebf2ed36ec
+      internalID: -638471374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441b2d6543b3d2642b6206fb684cbb2a
+      internalID: 723824076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29772a75f1aa42045a0bfd716d3e72e8
+      internalID: 2070432530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b4ecffa3c65b84eb02a0013aaa4386
+      internalID: 362363151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1d43d356ebff54eb56212e06c3b6b6
+      internalID: 1944488141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d515b6f2ad5b1740ac44fa767deeb8d
+      internalID: 1240648459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79279f6234e087449d5cdbfc0dca624
+      internalID: 2000148617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c46ae30cbd204887c3cb7b97acf56
+      internalID: -602627119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83fc5c5d91f315479e431296c11f44e
+      internalID: -1312591841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca222b3c15529d4c83f4f1bd75b57fb
+      internalID: 1862468617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071894471d5f75489545e0fe7d3f679
+      internalID: 2060244227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec4090229e5de4cab6cb0eceae7753
+      internalID: 262953430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c0073f7a5b364bbd30684cd90603a
+      internalID: 1252074817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baab40227e6a10948b12a5bb28422012
+      internalID: -1651543598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8afffec712a3e4988fe884a1eb7e2f
+      internalID: 1990883072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e68d158dfe67419f3d615b2718ec2
+      internalID: 323969981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595cf8f35440bd41bf3bba772bff573
+      internalID: -1089344186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_winter_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051aaca24e7a15e4dac0b19e91c55b9f
+      internalID: 1120444332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5f8f8472a01bba48b72d0f325f7f3e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      item_winter_0: 1946888843
+      item_winter_1: 1889461827
+      item_winter_10: 245815843
+      item_winter_100: 1990883072
+      item_winter_101: 323969981
+      item_winter_102: -1089344186
+      item_winter_103: 1120444332
+      item_winter_11: -1296251816
+      item_winter_12: -1438483037
+      item_winter_13: 430692727
+      item_winter_14: -1631983202
+      item_winter_15: -1974783180
+      item_winter_16: -1062180471
+      item_winter_17: -643114938
+      item_winter_18: 1093121221
+      item_winter_19: 1514161903
+      item_winter_2: 2046439769
+      item_winter_20: -110628027
+      item_winter_21: 1194231965
+      item_winter_22: -986606086
+      item_winter_23: 1745521089
+      item_winter_24: -1718669893
+      item_winter_25: 524002576
+      item_winter_26: 661785812
+      item_winter_27: 1862312159
+      item_winter_28: -1574293459
+      item_winter_29: 383837362
+      item_winter_3: 1740355650
+      item_winter_30: 1777560350
+      item_winter_31: -1901101099
+      item_winter_32: 232640720
+      item_winter_33: 624410254
+      item_winter_34: 400145541
+      item_winter_35: 1143080097
+      item_winter_36: 453081035
+      item_winter_37: 1366740507
+      item_winter_38: -251144329
+      item_winter_39: -1844272652
+      item_winter_4: -869411050
+      item_winter_40: 1384163237
+      item_winter_41: 1530756045
+      item_winter_42: -1740730041
+      item_winter_43: 816403192
+      item_winter_44: 1843508878
+      item_winter_45: 1942412968
+      item_winter_46: 582062236
+      item_winter_47: 1436624407
+      item_winter_48: -252395606
+      item_winter_49: 1495839662
+      item_winter_5: 300090456
+      item_winter_50: -1116923947
+      item_winter_51: 507400417
+      item_winter_52: -1419997859
+      item_winter_53: -1617543668
+      item_winter_54: -2078401455
+      item_winter_55: -409673962
+      item_winter_56: 779152701
+      item_winter_57: -1843775063
+      item_winter_58: -391142632
+      item_winter_59: 1369583169
+      item_winter_6: 440340185
+      item_winter_60: -1975324195
+      item_winter_61: 440270247
+      item_winter_62: 490309207
+      item_winter_63: 46175821
+      item_winter_64: 1008513091
+      item_winter_65: 1909177294
+      item_winter_66: -317464221
+      item_winter_67: 809632953
+      item_winter_68: 2030854158
+      item_winter_69: 1177490247
+      item_winter_7: -15535596
+      item_winter_70: 2069432703
+      item_winter_71: 1645720944
+      item_winter_72: -1552654147
+      item_winter_73: -474459962
+      item_winter_74: -2101101540
+      item_winter_75: 1873204576
+      item_winter_76: -526589666
+      item_winter_77: -421269981
+      item_winter_78: -447413565
+      item_winter_79: -1047594431
+      item_winter_8: -241906034
+      item_winter_80: 549139593
+      item_winter_81: 1977783317
+      item_winter_82: -87831732
+      item_winter_83: -1361945038
+      item_winter_84: -1232029892
+      item_winter_85: 1408077409
+      item_winter_86: -638471374
+      item_winter_87: 723824076
+      item_winter_88: 2070432530
+      item_winter_89: 362363151
+      item_winter_9: -1030803277
+      item_winter_90: 1944488141
+      item_winter_91: 1240648459
+      item_winter_92: 2000148617
+      item_winter_93: -602627119
+      item_winter_94: -1312591841
+      item_winter_95: 1862468617
+      item_winter_96: 2060244227
+      item_winter_97: 262953430
+      item_winter_98: 1252074817
+      item_winter_99: -1651543598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

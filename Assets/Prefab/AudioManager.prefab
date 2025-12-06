@@ -310,3 +310,4 @@ MonoBehaviour:
   coinClip: {fileID: 8300000, guid: 07f00b214c9d93f4f832eb499ceb9411, type: 3}
   winclip: {fileID: 8300000, guid: 4cd81ef30d3367d4c983313a3aeb96fd, type: 3}
   jumpClip: {fileID: 8300000, guid: dcf5ec207dd816449b465c30373507d2, type: 3}
+  shootClip: {fileID: 8300000, guid: 8501ceafa4a3e9541855e92f52edabfa, type: 3}

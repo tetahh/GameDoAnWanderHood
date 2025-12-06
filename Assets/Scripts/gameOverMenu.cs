@@ -1,18 +1,16 @@
 using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 
 public class gameOverMenu : MonoBehaviour
 {
     public GameObject GameOverMenu;
 
-    private void OnEnable()
+    private void Awake()
     {
         PlayerHealth.OnPlayerDeath += EnableGameOverMenu;
-
     }
-    private void OnDisable()
+
+    private void OnDestroy()
     {
         PlayerHealth.OnPlayerDeath -= EnableGameOverMenu;
     }
@@ -22,10 +20,10 @@ public class gameOverMenu : MonoBehaviour
         GameOverMenu.SetActive(true);
         Time.timeScale = 0;
     }
+
     public void RestartLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         Time.timeScale = 1;
     }
-    
 }

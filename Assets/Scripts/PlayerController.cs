@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator animator;
-    public AudioManager audioManager;
+
     public float moveSpeed;
     public float jumpSpeed;
     public float traiPhai;
@@ -35,10 +35,7 @@ public class PlayerController : MonoBehaviour
         startPosition = transform.position;
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        if (audioManager == null)
-        {
-            audioManager = FindFirstObjectByType<AudioManager>();
-        }
+    
      
     }
     // Update is called once per frame
@@ -87,10 +84,11 @@ public class PlayerController : MonoBehaviour
             isOnGround = false;
             animator.SetTrigger("jump");
 
-            if (audioManager != null)
-            {
-                audioManager.PlaySFX(audioManager.jumpClip);
-            }
+            if (AudioManager.Instance != null)
+        {
+            // Truy cập trực tiếp qua Instance, bỏ qua biến cục bộ audioManager
+            AudioManager.Instance.PlaySFX(AudioManager.Instance.jumpClip);
+        }
         }
     }
 
@@ -99,6 +97,11 @@ public class PlayerController : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             animator.SetTrigger("attack");
+            // Gọi bắn đạn ngay lập tức thay vì chờ animation
+            if (script_Bullet_Fire_Red != null)
+            {
+                script_Bullet_Fire_Red.Update_Bullet();
+            }
         }
     }
 
@@ -133,7 +136,6 @@ public class PlayerController : MonoBehaviour
         StartCoroutine(SetParentNextFrame(collision.transform));
     }
 }
-
     private IEnumerator SetParentNextFrame(Transform newParent)
     {
     yield return null; // đợi đến frame tiếp theo

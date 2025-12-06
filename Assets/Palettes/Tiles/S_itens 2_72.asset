@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: S_itens 2_72
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: -2943283619382172668, guid: 862b40d28afa3c94fbc03f6652069a5e, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.6320754, g: 1, b: 0.98084104, a: 1}
   m_Transform:
     e00: 1
     e01: 0
