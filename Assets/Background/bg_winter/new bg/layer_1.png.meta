@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 8826c5dae5b9106428eac6e7d289b736
+guid: 0f22c3ecbafa0714facc19bc3b700dd8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3843952343158564047
-    second: cay_0
-  - first:
-      213: -2529581021886861186
-    second: cay_1
+      213: 3571915057322279487
+    second: layer_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -43,9 +40,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -99,24 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cay_0
+      name: layer_1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13bd084c5b987aac0800000000000000
-      internalID: -3843952343158564047
+      spriteID: f32409fd1ddf19130800000000000000
+      internalID: 3571915057322279487
       vertices: []
       indices: 
       edges: []
@@ -141,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 51c8f91825fa208498c2cc14dce31296
+    spriteID: a9e812894f0d62d44af956da1b8be9e6
     internalID: 0
     vertices: []
     indices: 
@@ -151,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      cay_0: -3843952343158564047
+      layer_1_0: 3571915057322279487
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
